@@ -1,4 +1,4 @@
-## Welcome to Akang Wang's Pages
+## Welcome to Github Pages
 
 You can use the [editor on GitHub](https://github.com/akangw/akangw.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
