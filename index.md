@@ -1,6 +1,6 @@
 ## Welcome to Akang Wang's Page
 
-Hello, I'm Akang Wang, a Ph.D. student in [Chemical Engineering at Carnegie Mellon University](http://www.cmu.edu/cheme/index.html), working with [Prof. Chrysanthos E. Gounaris](https://www.cmu.edu/cheme/people/faculty/chrysanthos-e-gounaris.html) on the topic of supply chain management.  
+Hello, I'm Akang Wang, a 2-nd year Ph.D. student in [Chemical Engineering at Carnegie Mellon University](http://www.cmu.edu/cheme/index.html), working with [Prof. Chrysanthos E. Gounaris](https://www.cmu.edu/cheme/people/faculty/chrysanthos-e-gounaris.html) on the topic of supply chain management.  
 
 
 
