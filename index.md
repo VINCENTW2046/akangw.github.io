@@ -1,6 +1,6 @@
 ## Welcome to Akang Wang's Page
 
-Hello, I'm Akang Wang, a second-year Ph.D. student in [Chemical Engineering at Carnegie Mellon University](http://www.cmu.edu/cheme/index.html), working with [Prof. Chrysanthos E. Gounaris](https://www.cmu.edu/cheme/people/faculty/chrysanthos-e-gounaris.html) on the topic of supply chain management.  
+Hello, I'm Akang Wang, a second-year Ph.D. student in [Chemical Engineering at Carnegie Mellon University](http://www.cmu.edu/cheme/index.html), working with [Prof. Chrysanthos E. Gounaris](https://www.cmu.edu/cheme/people/faculty/chrysanthos-e-gounaris.html) on the topic of supply chain management. Efficient logistics is central to the competitiveness of companies, and supply chain reliability is a key objective in planning logistics operations. My research is focused on making minimum-cost routing design with protection from uncertainty in logistics operations such that the supply chain system is reliable.
 
 
 
