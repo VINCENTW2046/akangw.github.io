@@ -4,9 +4,10 @@ Hello, I'm Akang Wang, a second-year Ph.D. student in [Chemical Engineering at C
 
 
 
-### Markdown
+### Education
+Chemical Engineering, Tianjin University, 2011-2015
+Finance, Nankai University, 2013-2015
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
