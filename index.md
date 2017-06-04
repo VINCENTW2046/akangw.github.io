@@ -8,6 +8,7 @@ Hello, I'm Akang Wang, a second-year Ph.D. student in [Chemical Engineering at C
 - B.S. in Chemical Engineering, [Tianjin University](http://www.tju.edu.cn/english/), 2011 - 2015
 - B.A. in Finance, [Nankai University](http://english.nankai.edu.cn/), 2013 - 2015
 
+### Research
 
 ```markdown
 Syntax highlighted code block
