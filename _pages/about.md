@@ -17,8 +17,6 @@ news: true
 social: true
 ---
 
-Hello, I'm Akang Wang, a 2nd year Ph.D. student in Chemical Engineering at Carnegie Mellon University, working with [Chrysanthos E. Gounaris](https://www.cmu.edu/cheme/people/faculty/chrysanthos-e-gounaris.html). 
+Hello, I'm Akang Wang, a 2nd year Ph.D. student in [Chemical Engineering at Carnegie Mellon University](http://www.cmu.edu/cheme/), working with [Chrysanthos E. Gounaris](https://www.cmu.edu/cheme/people/faculty/chrysanthos-e-gounaris.html). My research is mainly focused on "[Vehicle Routing Problem](https://en.wikipedia.org/wiki/Vehicle_routing_problem)", and I'm also interested in theories and applications of global optimization. 
 
-In this webiste, you can know more about my research and experience. Feel free to check them out. Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In this webiste, you can know more about my research and experience. Feel free to check them out. 
