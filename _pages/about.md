@@ -17,6 +17,6 @@ news: true
 social: true
 ---
 
-Hello, I'm Akang Wang, a 2nd year Ph.D. student in <a href="http://www.cmu.edu/cheme/">Chemical Engineering at Carnegie Mellon University</a>, working with <a href="https://www.cmu.edu/cheme/people/faculty/chrysanthos-e-gounaris.html">Chrysanthos E. Gounaris</a>. My research is mainly focused on "<a href="https://en.wikipedia.org/wiki/Vehicle_routing_problem">Vehicle Routing Problem</a>", and I'm also interested in theories and applications of global optimization. 
+Hello, I'm Akang Wang, a 2nd year Ph.D. student in <a href="http://www.cmu.edu/cheme/">Chemical Engineering at Carnegie Mellon University</a>, working with <a href="https://www.cmu.edu/cheme/people/faculty/chrysanthos-e-gounaris.html">Chrysanthos E. Gounaris</a>. My research is mainly focused on <a href="https://en.wikipedia.org/wiki/Vehicle_routing_problem">Vehicle Routing Problem</a>, and I'm also interested in theories and applications of global optimization. 
 
 In this webiste, you can know more about my research and experience. Feel free to check them out. 
