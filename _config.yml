@@ -81,8 +81,8 @@ gems:
 
 # Jekyll-Scholar
 scholar:
-
-  last_name: Einstein
+  first_name: Akang
+  last_name: Wang
 
   style: apa
   locale: en
