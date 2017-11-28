@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Akang</strong> Wang
-description: Ph.D. student at <a href="http://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>
+description: Ph.D. Candidate at <a href="http://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>
 
 profile:
   align: right
