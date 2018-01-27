@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: CV
+title: cv
 description: Redirecting to my CV pdf . . .
 docurl: assets/pdf/Akang_Wang_CV_2017_10_26.pdf
 ---
