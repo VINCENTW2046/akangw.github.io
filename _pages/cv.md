@@ -2,8 +2,12 @@
 layout: page
 permalink: /cv/
 title: cv
-description: Redirecting to my CV pdf . . .
-docurl: assets/pdf/Akang_Wang_CV_2017_10_26.pdf
 ---
 
-<meta http-equiv="refresh" content="0; url={{ site.baseurl }}/assets/pdf/Akang_Wang_CV_2017_10_26.pdf" />
+<div class="cv-pdf">
+	<a href="/assets/pdf/Akang_Wang_CV.pdf" target="_blank">
+	  <img height="60px" src="/assets/img/pdf_icon.png">
+	  <p>Akang_Wang_CV</p>
+	</a>
+</div>
+
