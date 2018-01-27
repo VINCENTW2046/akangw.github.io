@@ -17,7 +17,7 @@
     <span class="author">
       {% for author in entry.author_array %}
         {% unless forloop.last %}
-          {% if author.last == site.scholar.last_name %}
+          {% if author.first == site.scholar.first_name %}
             <em>{{author.last}}, {{author.first}}</em>,
           {% else %}
             {% if site.data.coauthors[author.last] %}
@@ -28,7 +28,7 @@
           {% endif %}
         {% else %}
           and
-          {% if author.last == site.scholar.last_name %}
+          {% if author.first == site.scholar.first_name %}
             <em>{{author.last}}, {{author.first}}</em>
           {% else %}
             {% if site.data.coauthors[author.last] %}
@@ -62,6 +62,9 @@
   {% endif %}
   {% if entry.optimization-online %}
     [<a href="{{ entry.optimization-online }}" target="_blank">optimizatin-online</a>]
+  {% endif %}
+  {% if entry.website %}
+    [<a href="{{ entry.website }}" target="_blank">Website</a>]
   {% endif %}
   {% if entry.html %}
     [<a href="{{ entry.html }}" target="_blank">HTML</a>]
