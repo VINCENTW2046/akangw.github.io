@@ -55,10 +55,13 @@
 
   <span class="links">
   {% if entry.abstract %}
-    [<a class="abstract">Abs</a>]
+    [<a class="abstract">Abstract</a>]
   {% endif %}
   {% if entry.arxiv %}
     [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]
+  {% endif %}
+  {% if entry.optimization-online %}
+    [<a href="{{ entry.optimization-online }}" target="_blank">optimizatin-online</a>]
   {% endif %}
   {% if entry.html %}
     [<a href="{{ entry.html }}" target="_blank">HTML</a>]
