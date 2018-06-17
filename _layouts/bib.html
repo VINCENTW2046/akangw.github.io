@@ -58,7 +58,7 @@
     [<a class="abstract">Abstract</a>]
   {% endif %}
   {% if entry.arxiv %}
-    [<a href="http://arxiv.org/abs/{{ entry.arxiv }}" target="_blank">arXiv</a>]
+    [<a href="{{ entry.arxiv }}" target="_blank">arXiv</a>]
   {% endif %}
   {% if entry.optimization-online %}
     [<a href="{{ entry.optimization-online }}" target="_blank">optimization-online</a>]
