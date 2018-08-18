@@ -17,6 +17,6 @@ news: true
 social: true
 ---
 
-Hello, I'm Akang Wang, a third year Ph.D. student in <a href="https://www.cmu.edu/cheme/research/process-systems-engineering/index.html" target="_blank">Chemical Engineering (Process Systems Engineering) at Carnegie Mellon University</a>, working with <a href="https://www.cmu.edu/cheme/people/faculty/chrysanthos-e-gounaris.html" target="_blank">Chrysanthos E. Gounaris</a>. My research is mainly focused on <a href="https://en.wikipedia.org/wiki/Vehicle_routing_problem" target="_blank">Vehicle Routing Problem</a>, and I'm also interested in theories and applications of <a href="http://mathworld.wolfram.com/GlobalOptimization.html" target="_blank">Global Optimization. 
+Hello, I'm Akang Wang, a fourth year Ph.D. student in <a href="https://www.cmu.edu/cheme/research/process-systems-engineering/index.html" target="_blank">Chemical Engineering (Process Systems Engineering) at Carnegie Mellon University</a>, working with <a href="https://www.cmu.edu/cheme/people/faculty/chrysanthos-e-gounaris.html" target="_blank">Chrysanthos E. Gounaris</a>. My research is mainly focused on <a href="https://en.wikipedia.org/wiki/Vehicle_routing_problem" target="_blank">Vehicle Routing Problem</a>, and I'm also interested in theories and applications of <a href="http://mathworld.wolfram.com/GlobalOptimization.html" target="_blank">Global Optimization. 
 
 In this website, you can know more about my research and experience. Feel free to check them out. 
