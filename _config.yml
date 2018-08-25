@@ -78,6 +78,7 @@ gems:
     - jekyll-paginate
     - jekyll/scholar
     - jemoji
+    - jekyll-seo-tag
 
 # Jekyll-Scholar
 scholar:
@@ -110,5 +111,3 @@ jquery_version: "1.12.4"
 katex_version: "0.7.1"
 anchorjs_version: "3.2.2"
 
-plugins_dir:
-   - jekyll-seo-tag
