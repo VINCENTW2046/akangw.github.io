@@ -1,7 +1,6 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-title: Akang Wang's homepage
 name: Akang Wang
 email: akangw@andrew.cmu.edu
 description: > # this means to ignore newlines until "url:"
@@ -111,4 +110,3 @@ scholar:
 jquery_version: "1.12.4"
 katex_version: "0.7.1"
 anchorjs_version: "3.2.2"
-
