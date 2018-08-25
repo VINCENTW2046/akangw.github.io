@@ -78,7 +78,7 @@ gems:
     - jekyll-paginate
     - jekyll/scholar
     - jemoji
-    - jekyll-seo-tag
+    # - jekyll-seo-tag
 
 # Jekyll-Scholar
 scholar:
