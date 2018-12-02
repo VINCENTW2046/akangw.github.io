@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Disjunctive Programming
-date:   2018-12-02
+date:   2018-12-02 12:00:00
 description: Prof. Egon Balas, Disjunctive Programming Book
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Intersection Cuts
-date:   2018-11-30 
+date:   2018-11-30 12:00:00
 description: an introduction to intersection cuts
 ---
 
