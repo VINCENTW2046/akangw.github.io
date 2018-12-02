@@ -26,18 +26,18 @@ contact_note: >
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-#blog_name: WITNESS
-#blog_description: a simple whitespace theme for academics
+blog_name: Akang Wang's blog
+blog_description: a place to share what I have learned about research
 
 # Pagination
-#paginate: 4
-#permalink: /blog/:year/:title/
-#paginate_path: /blog/page:num/
+paginate: 4
+permalink: /blog/:year/:title/
+paginate_path: /blog/page:num/
 
-#text:
-#  pagination:
-#    newer: 'Newer'
-#    older: 'Older'
+text:
+ pagination:
+   newer: 'Newer'
+   older: 'Older'
 
 # Comments
 #disqus_shortname: al-folio # put your disqus shortname
