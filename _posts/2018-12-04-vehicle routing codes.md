@@ -11,4 +11,6 @@ I found the following useful codes for solving <a href="https://en.wikipedia.org
 <ul>
     <li><a href="http://www.math.uwaterloo.ca/tsp/concorde/index.html" target="_blank">Concorde</a></li>
     <li><a href="http://akira.ruc.dk/~keld/research/LKH-3/" target="_blank">LKH</a></li>
+    <li><a href="https://github.com/graphhopper/jsprit" target="_blank">jspirit</a></li>
+    <li><a href="https://allgo.inria.fr/app/vehiclerouting" target="_blank">VRP Solver</a></li>
 </ul>
