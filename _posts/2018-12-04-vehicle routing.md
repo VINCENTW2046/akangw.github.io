@@ -19,6 +19,7 @@ I also found some nice VRP websites.
 <ul>
     <li><a href="http://vrp.galgos.inf.puc-rio.br/index.php/en/" target="_blank">CVRPLIB</a></li>
     <li><a href="http://neo.lcc.uma.es/vrp/" target="_blank">Networking and Emerging Optimization</a></li>
+    <li><a href="http://chairelogistique.hec.ca/en/" target="_blank">Chair in Logistics and Transportation</a></li>
 </ul>
 
 Excellent and comprehensive books about TSP/VRP.
