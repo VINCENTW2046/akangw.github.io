@@ -9,5 +9,6 @@ I found the following useful tutorials for parallel computing.
 
 <ul>
     <li><a href="https://computing.llnl.gov/tutorials/parallel_comp/" target="_blank">Introduction to Parallel Computing</a></li>
+    <li><a href="https://www.openmp.org/resources/tutorials-articles/" target="_blank">OpenMP Tutorials</a></li>
     <li><a href="https://computing.llnl.gov/tutorials/openMP/" target="_blank">OpenMP</a></li>
 </ul>
