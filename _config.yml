@@ -30,7 +30,7 @@ blog_name: Akang Wang's blog
 blog_description: a place to share my research journey
 
 # Pagination
-paginate: 4
+paginate: 100
 permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
@@ -43,7 +43,7 @@ text:
 #disqus_shortname: al-folio # put your disqus shortname
 
 # Optional features
-#show_social_icons:  false
+# show_social_icons:  false
 #enable_anchorjs:    false
 #enable_katex:       true
 
@@ -60,7 +60,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-news_limit: 20
+news_limit: 100
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
