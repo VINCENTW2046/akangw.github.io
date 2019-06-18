@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2019-06-08 07:59:00-0400
+date: 2019-05-21 07:59:00-0400
 inline: true
 ---
 
-During the past two weeks, I visited [Air Liquide Delaware Research and Technology Center](https://www.airliquide.com/group/research-development) and had the great opportunity to discuss with and learn from research peers and industry practitioners.
+I am glad to join the [YinzOR 2019](https://2019yinzorstudentconference.wordpress.com/) Organizing Committee. Our goal is to provide an opportunity for students whose research is in Operations Research, Management Science, Industrial Engineering, and other related fields to interact with each other.
