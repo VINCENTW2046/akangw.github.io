@@ -11,7 +11,7 @@ I found the following useful codes for solving <a href="https://en.wikipedia.org
     <li><a href="http://www.math.uwaterloo.ca/tsp/concorde/index.html" target="_blank">Concorde</a></li>
     <li><a href="http://akira.ruc.dk/~keld/research/LKH-3/" target="_blank">LKH</a></li>
     <li><a href="https://github.com/graphhopper/jsprit" target="_blank">jspirit</a></li>
-    <li><a href="https://allgo.inria.fr/app/vehiclerouting" target="_blank">VRP Solver</a></li>
+    <li><a href="https://vrpsolver.math.u-bordeaux.fr/" target="_blank">VRPSolver</a></li>
 </ul>
 
 I also found some nice VRP websites.
@@ -23,10 +23,16 @@ I also found some nice VRP websites.
     <li><a href="https://www.euro-online.org/websites/verolog/verolog-solver-challenge/" target="_blank">VeRoLog Solver Challenge</a></li>
 </ul>
 
-Excellent and comprehensive books about TSP/VRP.
+Here are some excellent and comprehensive books about TSP/VRP.
 
 <ul>
     <li><a href="https://epubs.siam.org/doi/book/10.1137/1.9780898718515" target="_blank">The Vehicle Routing Problem, 2002</a></li>
     <li><a href="https://press.princeton.edu/titles/8451.html" target="_blank">The Traveling Salesman Problem A Computational Study, 2007</a></li>
     <li><a href="http://bookstore.siam.org/mo18/" target="_blank">Vehicle Routing Problems, Methods and Applications, 2014</a></li>
+</ul>
+
+If you want to compare CPUs, the following link might be helpful.
+
+<ul>
+    <li><a href="https://www.cpubenchmark.net/singleThread.html" target="_blank">CPU Benchmarks</a></li>
 </ul>
