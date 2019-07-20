@@ -8,6 +8,7 @@ description:
 Below are professors' websites I collect and we can find lots of nice math/optimization materials to study.
 
 <ul>
-    <li><a href="https://www2.isye.gatech.edu/~nemirovs/" target="_blank">Arkadi Nemirovski</a></li>
+    <li><a href="https://www2.isye.gatech.edu/~nemirovs/" target="_blank">Dimitri Bertsekas</a></li>
+    <li><a href="http://www.mit.edu/~dimitrib/home.html" target="_blank">Arkadi Nemirovski</a></li>
 </ul>
 
