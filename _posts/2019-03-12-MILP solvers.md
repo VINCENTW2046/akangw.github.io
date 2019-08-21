@@ -13,6 +13,8 @@ CPLEX
 	<li><a href="https://www.ibm.com/support/knowledgecenter/SSSA5P_12.9.0/ilog.odms.cplex.help/CPLEX/GettingStarted/topics/set_up/GNU_Linux.html" target="_blank">Set up CPLEX</a></li>
 </ul>
 
+If you have questions about CPLEX, you can usually find answers at the <li><a href="https://www.ibm.com/developerworks/community/forums/html/forum?id=11111111-0000-0000-0000-000000002059" target="_blank">IBM Forum: CPLEX Optimizers</a></li>
+
 Gurobi
 <ul>
     <li><a href="http://abelsiqueira.github.io/blog/installing-gurobi-7-on-linux/" target="_blank">Tutorial</a></li>
