@@ -27,7 +27,7 @@ contact_note: >
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Akang Wang's blog
-blog_description: a place to share my research journey
+#blog_description: a place to share my research journey
 
 # Pagination
 paginate: 100
