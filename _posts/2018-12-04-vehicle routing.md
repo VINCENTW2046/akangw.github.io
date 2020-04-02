@@ -22,6 +22,7 @@ I also found some nice VRP websites.
     <li><a href="http://chairelogistique.hec.ca/en/" target="_blank">Chair in Logistics and Transportation</a></li>
     <li><a href="http://www.vrp-rep.org/" target="_blank">VRP-REP</a></li>
     <li><a href="https://www.euro-online.org/websites/verolog/verolog-solver-challenge/" target="_blank">VeRoLog Solver Challenge</a></li>
+    <li><a href="https://w1.cirrelt.ca/~vidalt/en/VRP-resources.html" target="_blank">Thibaut Vidal's website</a></li>
 </ul>
 
 Here are some excellent and comprehensive books about TSP/VRP.
