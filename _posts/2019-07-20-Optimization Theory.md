@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Optimization Websites
+title:  Optimization Theory
 date:   2019-07-20 12:00:00
 description:
 ---

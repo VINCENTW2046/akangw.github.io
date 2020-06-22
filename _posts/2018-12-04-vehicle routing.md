@@ -2,7 +2,7 @@
 layout: post
 title:  Traveling Salesman/Vehicle Routing Problems
 date:   2018-12-02 12:00:00
-description: useful papers/links/codes for traveling salesman/vehicle routing problems
+description:
 ---
 
 I found the following useful codes for solving <a href="https://en.wikipedia.org/wiki/Travelling_salesman_problem" target="_blank">traveling salesman problems (TSP)</a> and <a href="https://en.wikipedia.org/wiki/Vehicle_routing_problem" target="_blank">vehicle routing problems (VRP)</a>.
