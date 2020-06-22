@@ -6,14 +6,14 @@
   <meta name="viewport" content="width=device-width initial-scale=1" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Akang Wang | Optimization Websites</title>
+  <title>Akang Wang | Optimization Implementation</title>
   <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 ">
 
   <link rel="shortcut icon" href="https://akangw.github.io/assets/img/favicon.ico">
 
   <link rel="stylesheet" href="https://akangw.github.io/assets/css/main.css">
-  <link rel="canonical" href="https://akangw.github.io/blog/2019/Optimization/">
+  <link rel="canonical" href="https://akangw.github.io/blog/2019/Optimization-Implementation/">
 </head>
 
 
@@ -73,18 +73,52 @@
         <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">Optimization Websites</h1>
-    <p class="post-meta">July 20, 2019</p>
+    <h1 class="post-title">Optimization Implementation</h1>
+    <p class="post-meta">March 12, 2019</p>
   </header>
 
   <article class="post-content">
-    <p>I found a few useful websites for studying math/optimization.</p>
-
+    <h4 id="cplex">CPLEX</h4>
 <ul>
-    <li><a href="http://www.mit.edu/~dimitrib/home.html" target="_blank">Dimitri Bertsekas</a></li>
-    <li><a href="https://www2.isye.gatech.edu/~nemirovs/" target="_blank">Arkadi Nemirovski</a></li>
+    <li><a href="https://my15.digitalexperience.ibm.com/b73a5759-c6a6-4033-ab6b-d9d4f9a6d65b/dxsites/151914d1-03d2-48fe-97d9-d21166848e65/home" target="_blank">Download CPLEX via your academic account</a></li>
+    <li><a href="https://www.ibm.com/support/knowledgecenter/en/SSSA5P_12.10.0/ilog.odms.studio.help/Optimization_Studio/topics/COS_installing.html" target="_blank">Installation</a></li>
+	<li><a href="https://www.ibm.com/support/knowledgecenter/SSSA5P_12.10.0/ilog.odms.cplex.help/CPLEX/GettingStarted/topics/set_up/GNU_Linux.html" target="_blank">Set up CPLEX</a></li>
+	<li><a href="https://www.ibm.com/support/knowledgecenter/SSSA5P_12.10.0/ilog.odms.cplex.help/refcallablelibrary/homepageCrefman.html" target="_blank">Documentation</a></li>
 </ul>
 
+<h4 id="gurobi">Gurobi</h4>
+<ul>
+    <li><a href="http://abelsiqueira.github.io/blog/installing-gurobi-7-on-linux/" target="_blank">Installation</a></li>
+    <li><a href="https://www.gurobi.com/documentation/" target="_blank">Documentation</a></li>
+</ul>
+
+<h4 id="cvx">CVX</h4>
+<ul>
+    <li><a href="http://cvxr.com/cvx/doc/intro.html" target="_blank">Tutorial</a></li>
+</ul>
+
+<h4 id="code-profiling">Code profiling</h4>
+<ul>
+  <li>Use valgrind to generate a file “callgrind.out.x” where x is some number
+    <ul>
+      <li>requirement: valgrind</li>
+      <li><code class="highlighter-rouge">valgrind --tool=callgrind [call your code with arguments]</code></li>
+    </ul>
+  </li>
+  <li>Use the pythyon code <a href="https://github.com/jrfonseca/gprof2dot" target="_blank">gprof2dot.py</a>
+    <ul>
+      <li>requirement: python, graphviz</li>
+      <li><code class="highlighter-rouge">python gprof2dot.py -s -f callgrind ./callgrind.out.x | dot -Tpdf -o output.pdf</code></li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="parallel-computing">Parallel computing</h4>
+<ul>
+    <li><a href="https://computing.llnl.gov/tutorials/parallel_comp/" target="_blank">Introduction to Parallel Computing</a></li>
+    <li><a href="https://www.openmp.org/resources/tutorials-articles/" target="_blank">OpenMP Tutorials</a></li>
+    <li><a href="https://computing.llnl.gov/tutorials/openMP/" target="_blank">OpenMP</a></li>
+</ul>
 
   </article>
 
