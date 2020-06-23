@@ -7,10 +7,10 @@ description: Operations Research, Mathematical Optimization
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
+<!--   address: >
     <p>Doherty Hall 1207</p>
     <p>5000 Forbes Avenue</p>
-    <p>Pittsburgh, PA 15213</p>
+    <p>Pittsburgh, PA 15213</p> -->
 
 
 news: true
