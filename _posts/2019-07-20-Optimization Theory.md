@@ -5,7 +5,7 @@ date:   2019-07-20 12:00:00
 description:
 ---
 
-I found a few useful websites for studying math/optimization.
+I found a few useful websites for studying mathematical optimization.
 
 <ul>
     <li><a href="http://www.mit.edu/~dimitrib/home.html" target="_blank">Dimitri Bertsekas</a></li>
