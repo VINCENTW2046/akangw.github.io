@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Optimization Theory
+title:  Optimization Theory/Methods
 date:   2019-07-20 12:00:00
 description:
 ---
