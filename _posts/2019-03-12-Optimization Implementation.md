@@ -28,7 +28,15 @@ description:
     <li><a href="http://cvxr.com/cvx/doc/intro.html" target="_blank">Tutorial</a></li>
 </ul>
 
+#### NEOS
+<ul>
+    <li><a href="https://neos-server.org/neos/" target="_blank">NEOS Server</a></li>
+</ul>
 
+#### Benchmarks for Optimization Software
+<ul>
+    <li><a href="http://plato.asu.edu/bench.html" target="_blank">Hans D. Mittlemann</a></li>
+</ul>
 
 #### Code profiling
 * Use valgrind to generate a file "callgrind.out.x" where x is some number 
