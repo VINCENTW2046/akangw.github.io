@@ -23,4 +23,4 @@ My Ph.D. research was mainly focused on developing mathematical models and algor
 besides that, I also did some work in the area of <a href="http://mathworld.wolfram.com/GlobalOptimization.html" target="_blank">Global Optimization. 
 
 In this website, you can know more about my research and experience. 
-Feel free to check them out. 
+Also, please feel free to check out my <a href="https://scholar.google.com/citations?user=TyYzzmoAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a> and <a href="https://www.linkedin.com/in/akangwang/" target="_blank">LinkedIn</a>.
