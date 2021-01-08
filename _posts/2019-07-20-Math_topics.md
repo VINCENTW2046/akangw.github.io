@@ -12,6 +12,7 @@ description:
     <li><a href="https://www2.isye.gatech.edu/~nemirovs/" target="_blank">Arkadi Nemirovski</a></li>
     <li><a href="https://www.cs.princeton.edu/~ehazan/index.htm" target="_blank">Elad Hazan</a></li>
     <li><a href="https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/tayur-sridhar.html" target="_blank">Sridhar R. Tayur</a></li>
+    <li><a href="http://www.andrew.cmu.edu/user/fkilinc/" target="_blank">Fatma Kılınç-Karzan</a></li>
 </ul>
 
 
@@ -19,4 +20,5 @@ description:
 #### Quantum Computing
 <ul>
     <li><a href="https://www.cmu.edu/tepper/faculty-and-research/research/quantum-computing-business.html" target="_blank">CMU Quamtum Computing Research</a></li>
+    <li><a href="https://ti.arc.nasa.gov/tech/dash/groups/quail/" target="_blank">QuAIL</a></li>
 </ul>
