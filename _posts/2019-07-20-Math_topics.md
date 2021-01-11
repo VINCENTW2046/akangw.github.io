@@ -13,6 +13,7 @@ description:
     <li><a href="https://www.cs.princeton.edu/~ehazan/index.htm" target="_blank">Elad Hazan</a></li>
     <li><a href="https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/tayur-sridhar.html" target="_blank">Sridhar R. Tayur</a></li>
     <li><a href="http://www.andrew.cmu.edu/user/fkilinc/" target="_blank">Fatma Kılınç-Karzan</a></li>
+    <li><a href="https://www2.isye.gatech.edu/~sdey30/" target="_blank">Santanu S. Dey</a></li>
 </ul>
 
 
