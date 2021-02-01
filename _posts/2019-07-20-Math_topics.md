@@ -25,3 +25,11 @@ description:
     <li><a href="https://www.cmu.edu/tepper/faculty-and-research/research/quantum-computing-business.html" target="_blank">CMU Quamtum Computing Research</a></li>
     <li><a href="https://ti.arc.nasa.gov/tech/dash/groups/quail/" target="_blank">QuAIL</a></li>
 </ul>
+
+
+
+#### Lectures on Optimization
+<ul>
+    <li><a href="http://www.princeton.edu/~yc5/ele522_optimization/index.html" target="_blank">Large-Scale Optimization for Data Science, Princeton</a></li>
+    <li><a href="http://www.stat.cmu.edu/~ryantibs/convexopt/" target="_blank">Convex Optimization, CMU</a></li>
+</ul>
