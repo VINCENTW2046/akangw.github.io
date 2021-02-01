@@ -15,6 +15,7 @@ description:
     <li><a href="http://www.andrew.cmu.edu/user/fkilinc/" target="_blank">Fatma Kılınç-Karzan</a></li>
     <li><a href="https://www2.isye.gatech.edu/~sdey30/" target="_blank">Santanu S. Dey</a></li>
     <li><a href="https://web.stanford.edu/~yyye/" target="_blank">Yinyu Ye</a></li>
+    <li><a href="https://mitmgmtfaculty.mit.edu/rfreund/" target="_blank">Robert M. Freund</a></li>
 </ul>
 
 
