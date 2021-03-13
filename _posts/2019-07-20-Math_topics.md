@@ -16,15 +16,16 @@ description:
     <li><a href="https://www2.isye.gatech.edu/~sdey30/" target="_blank">Santanu S. Dey</a></li>
     <li><a href="https://web.stanford.edu/~yyye/" target="_blank">Yinyu Ye</a></li>
     <li><a href="https://mitmgmtfaculty.mit.edu/rfreund/" target="_blank">Robert M. Freund</a></li>
+    <li><a href="http://www.pokutta.com/" target="_blank">Sebastian Pokutta</a></li>
 </ul>
 
 
 
-#### Quantum Computing
+<!-- #### Quantum Computing
 <ul>
     <li><a href="https://www.cmu.edu/tepper/faculty-and-research/research/quantum-computing-business.html" target="_blank">CMU Quamtum Computing Research</a></li>
     <li><a href="https://ti.arc.nasa.gov/tech/dash/groups/quail/" target="_blank">QuAIL</a></li>
-</ul>
+</ul> -->
 
 
 
