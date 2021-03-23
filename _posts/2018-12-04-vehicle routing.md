@@ -33,8 +33,3 @@ Here are some excellent and comprehensive books about TSP/VRP.
     <li><a href="http://bookstore.siam.org/mo18/" target="_blank">Vehicle Routing Problems, Methods and Applications, 2014</a></li>
 </ul>
 
-If you want to compare CPUs, the following link might be helpful.
-
-<ul>
-    <li><a href="https://www.cpubenchmark.net/singleThread.html" target="_blank">CPU Benchmarks</a></li>
-</ul>

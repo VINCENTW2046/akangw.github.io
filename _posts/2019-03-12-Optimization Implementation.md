@@ -38,6 +38,20 @@ description:
     <li><a href="http://plato.asu.edu/bench.html" target="_blank">Hans D. Mittlemann</a></li>
 </ul>
 
+
+#### Coding Languages
+<ul>
+    <li><a href="http://www.cplusplus.com/" target="_blank">C++</a></li>
+    <li><a href="https://python.org/" target="_blank">Python</a></li>
+    <li><a href="https://julialang.org/" target="_blank">Julia</a></li>
+</ul>
+
+
+#### Coding Style
+<ul>
+    <li><a href="http://google.github.io/styleguide/" target="_blank">Google Style Guides</a></li>
+</ul>
+
 #### Code profiling
 * Use valgrind to generate a file "callgrind.out.x" where x is some number 
    * requirement: valgrind
@@ -53,4 +67,11 @@ description:
     <li><a href="https://computing.llnl.gov/tutorials/parallel_comp/" target="_blank">Introduction to Parallel Computing</a></li>
     <li><a href="https://www.openmp.org/resources/tutorials-articles/" target="_blank">OpenMP Tutorials</a></li>
     <li><a href="https://computing.llnl.gov/tutorials/openMP/" target="_blank">OpenMP</a></li>
+</ul>
+
+
+If you want to compare CPUs, the following link might be helpful.
+
+<ul>
+    <li><a href="https://www.cpubenchmark.net/singleThread.html" target="_blank">CPU Benchmarks</a></li>
 </ul>
