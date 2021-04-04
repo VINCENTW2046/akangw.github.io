@@ -37,3 +37,10 @@ description:
     <li><a href="https://statweb.stanford.edu/~candes/teaching/math301/index.html" target="_blank">Advanced Topics in Convex Optimization, Stanford</a></li>
     <li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-253-convex-analysis-and-optimization-spring-2012/" target="_blank">Convex Analysis and Optimization, MIT</a></li>
 </ul>
+
+
+
+#### Optimization Books
+<ul>
+    <li><a href="https://epubs.siam.org/series/mo?mobileUi=0&" target="_blank">MOS-SIAM Series on Optimization</a></li>
+</ul>
