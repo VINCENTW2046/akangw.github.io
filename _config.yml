@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Akang Wang
-email: akangw@alumni.cmu.edu
+email: wangakang@sribd.cn
 description: > # this means to ignore newlines until "url:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -26,7 +26,7 @@ contact_note: >
 # Blog
 # -----------------------------------------------------------------------------
 blog_name: Akang Wang's blog
-#blog_description: a place to share my research journey
+# blog_description: a place to share my research journey
 
 # Pagination
 paginate: 100

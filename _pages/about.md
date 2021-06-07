@@ -17,7 +17,7 @@ news: true
 social: true
 ---
 
-Hello, I'm Akang Wang, an Algorithm Engineer at <a href="https://www.didiglobal.com/" target="_blank">DiDi Chuxing</a>.
+Hello, I'm Akang Wang. I'm currently working as a Research Scientist at <a href="http://www.sribd.cn/" target="_blank">Shenzhen Research Institute of Big Data (SRIBD)</a>. Before joining SRIBD, I worked as an Algorithm Engineer at <a href="https://www.didiglobal.com/" target="_blank">DiDi</a> for a few months.
 I obtained my Ph.D. degree at <a href="http://www.cmu.edu/" target="_blank">Carnegie Mellon University</a> in 2020, working with <a href="https://scholar.google.com/citations?user=CINe7CgAAAAJ&hl=en" target="_blank">Prof. Chrysanthos E. Gounaris</a> in the area of <a href="https://www.cheme.engineering.cmu.edu/research/process-systems.html" target="_blank">Process Systems Engineering</a>. 
 My Ph.D. research was mainly focused on developing mathematical models and algorithms for <a href="https://en.wikipedia.org/wiki/Supply_chain" target="_blank">Supply Chain & Logistics</a>; 
 besides that, I also did some work in <a href="http://mathworld.wolfram.com/GlobalOptimization.html" target="_blank">Global Optimization</a>. 
