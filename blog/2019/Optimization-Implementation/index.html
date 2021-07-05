@@ -55,6 +55,8 @@
             <a class="page-link" href="https://akangw.github.io/publications/">publications</a>
           
         
+          
+        
 
         <!-- CV link -->
         <!-- <a class="page-link" href="https://akangw.github.io/assets/pdf/CV.pdf">vitae</a> -->
@@ -129,13 +131,13 @@
   <li>Use valgrind to generate a file “callgrind.out.x” where x is some number
     <ul>
       <li>requirement: valgrind</li>
-      <li><code class="highlighter-rouge">valgrind --tool=callgrind [call your code with arguments]</code></li>
+      <li><code class="language-plaintext highlighter-rouge">valgrind --tool=callgrind [call your code with arguments]</code></li>
     </ul>
   </li>
   <li>Use the pythyon code <a href="https://github.com/jrfonseca/gprof2dot" target="_blank">gprof2dot.py</a>
     <ul>
       <li>requirement: python, graphviz</li>
-      <li><code class="highlighter-rouge">python gprof2dot.py -s -f callgrind ./callgrind.out.x | dot -Tpdf -o output.pdf</code></li>
+      <li><code class="language-plaintext highlighter-rouge">python gprof2dot.py -s -f callgrind ./callgrind.out.x | dot -Tpdf -o output.pdf</code></li>
     </ul>
   </li>
 </ul>
